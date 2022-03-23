@@ -1,5 +1,12 @@
 dvc
 dvc[gdrive]
 sklearn
-yaml
 pandas
+pytest
+tox
+flake8
+flask
+gunicorn
+
+
+
