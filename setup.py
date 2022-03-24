@@ -7,6 +7,7 @@ setup(
     author="victen",
     packages=find_packages(),
     license="MIT",
-    author_email="vikramnimmakuri@gmail.com"
+    author_email="vikramnimmakuri@gmail.com",
+    platforms=False
 )
 
